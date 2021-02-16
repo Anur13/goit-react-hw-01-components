@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './Statistics-Section.module.css';
 
-import statisticalData from '../statistics/statistical-data.json';
-import Statistics from '../statistics/Statistics';
+import statisticalData from '../Statistics/statistical-data.json';
+import Statistics from '../Statistics/Statistics';
 
 const StatisticsSection = () => {
   return (

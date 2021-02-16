@@ -1,6 +1,6 @@
 import React from 'react';
-import Transactions from '../transactions/Transactions';
-import transactionsInfo from '../transactions/transactions.json';
+import Transactions from '../Transactions/Transactions';
+import transactionsInfo from '../Transactions/transactions.json';
 import styles from './Transaction-section.module.css';
 
 const TransactonsSections = () => {
